@@ -1,5 +1,12 @@
 ## Welcome to GitHub Pages
 
+## Samantha Katovich's First CS193 Homework ##
+
+My favorite things about CS193:
+- I love coding and this class has lots of coding!
+- The TAs seem very fun and make me excited to learn more in the class
+- The class has a good vibe and seems like an overall great time!
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
